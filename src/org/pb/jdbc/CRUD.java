@@ -10,7 +10,7 @@ public class CRUD {
 	private Connection conn = null;
 	private Statement stm = null;
 	private ResultSet rs = null;
-	private String sql;
+	//private String sql;
 
 	public CRUD(String sql) {
 		try {
