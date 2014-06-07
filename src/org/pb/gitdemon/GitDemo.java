@@ -10,7 +10,5 @@ public class GitDemo {
 		System.out.println("this is a git demon XD...");
 		System.out.println("this is a git demon XD, too...");
 		return;
-
 	}
-
 }
